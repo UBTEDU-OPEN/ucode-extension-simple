@@ -1,0 +1,11 @@
+{
+  "id": "85c6924e-b21b-4c3d-aa13-3d37967a7407",
+  "version": "0.0.1",
+  "type": "hardware",
+  "supportModes": ["online"],
+  "name": "我的第一个硬件",
+  "description": "万事开头难, 你已经成功一半了",
+  "author": "伟大的开发者",
+  "icon": "logo.png",
+  "USV": "0.6.0"
+}
